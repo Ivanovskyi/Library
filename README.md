@@ -3,3 +3,5 @@
 - React TS 19.2.4
 - Stripe 32.0.0
 - JWT
+- Docker
+- MySQL
