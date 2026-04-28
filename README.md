@@ -5,3 +5,4 @@
 - JWT
 - Docker
 - MySQL
+- Roles
