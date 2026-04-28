@@ -6,3 +6,5 @@
 - Docker
 - MySQL
 - Roles
+- Login/Sign up
+  
